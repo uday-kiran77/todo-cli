@@ -24,7 +24,7 @@
 ![show](/images/show.JPG?raw=true)
 
 
-#### `todo completed-all` - changes status of all the todos to completed
+#### `todo delete-all` - Remove all todos 
 
 
 
