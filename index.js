@@ -23,7 +23,7 @@ program
   .action(show);
 
 program
-  .command("mark-completed")
+  .command("done")
   .description(
     "It marks the status of a selected task as completed and vice-versa"
   )
